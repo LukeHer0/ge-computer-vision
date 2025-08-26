@@ -1,1 +1,4 @@
 env
+Test/line_segmented/
+Test/feature_images/
+Test/segmented/
